@@ -1,2 +1,2 @@
 # first-app
- first application using streamlit package
+ first application using streamlit package to predict price of used cars
